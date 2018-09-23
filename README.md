@@ -19,3 +19,9 @@ underscore. So for example:
 only\_presenter\_name\_-\_title\_of\_the\_session.pdf
 
 presenter\_one\_name\_\_presenter\_two\_name\_-\_title\_of\_this\_two\_person\_session.pdf
+
+## Licence and Copyright
+
+Copyright in the material of each PDF file remains with the author or authors of the file. There is no
+general licence associated with the files in this repository, nor is the material in the public domain by
+virtue of being in this repository.
